@@ -42,3 +42,4 @@ putc(mat[k][j],fp);
 }
 fclose(fp);
 }
+//Yo buddy
